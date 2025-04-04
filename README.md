@@ -33,18 +33,4 @@ Import the provided SQL script to create the database schema.
 
 Execute the provided queries to test functionality.
 
-### 🔹 Steps
-
-Clone the repository:
-
-git clone https://github.com/your-repo/database_project.git
-
-Navigate to the project folder:
-
-cd database_project
-
-Open the SQL script and execute it in the SQL environment.
-
-Run the queries and verify the database state.
-
 
